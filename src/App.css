@@ -1,0 +1,8 @@
+/* // will want to make this selector more targeted/meaningful */
+* {
+    -webkit-transition: all 0.08s;
+    -moz-transition: all 0.08s;
+    -ms-transition: all 0.08s;
+    -o-transition: all 0.08s;
+    transition: all 0.08s;
+  }
