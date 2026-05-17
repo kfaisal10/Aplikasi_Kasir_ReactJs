@@ -3,8 +3,10 @@
 ## Screenshoot
 <table>
   <tr>
-    <td><img src=" https://github.com/kfaisal10/screenshoot/blob/main/aplikasi-kasir-menu.png"></td>
-    <td><img src=" https://github.com/kfaisal10/screenshoot/blob/main/aplikasi-kasir-history.png" width="100"></td>
+    <td><img src="https://github.com/kfaisal10/screenshoot/blob/main/aplikasi-kasir-menu.png" width="700"></td>
+   </tr>
+  <tr>
+    <td><img src="https://github.com/kfaisal10/screenshoot/blob/main/aplikasi-kasir-history.png" width="700"></td>
   </tr>
 </table>
 
