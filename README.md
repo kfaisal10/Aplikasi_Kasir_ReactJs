@@ -1,30 +1,18 @@
-## Tentang
+# Aplikasi Kasir Using React JS
 
-![Screenshot of the running project]
+## Screenshoot
+<table>
+  <tr>
+    <td><img src=" https://github.com/kfaisal10/screenshoot/blob/main/aplikasi-kasir-menu.png" width="500"></td>
+    <td><img src=" https://github.com/kfaisal10/screenshoot/blob/main/aplikasi-kasir-history.png" width="500"></td>
+  </tr>
+</table>
 
-Front-end aplikasi kasir *fast food restaurant* sederhana menggunakan React JS. Untuk mensimulasikan penggunaan API, digunakan JSON Server sebagai "fake REST API".
+## How to Use
+1. Running project at terminal project
+   > `npm run dev`
+2. See the result
+   > `Open http://localhost:3000 to see the result`
 
-## Fitur  ✨
-
-- Menampilkan daftar item makanan dan minuman serta harga dan statusnya (*ready* or *not ready*) yang didapatkan dari API JSON Server.
-- Menambahakan item makanan atau minuman yang berstatus *ready* keadalam keranjang belanjaan.
-- Melakukan update status item makanan atau minuman setiap 10 detik
-- Melakukan validasi status item makanan atau minuman didalam keranjang sebelum transaksi dapat dilakukan.
-- Mengirimkan isi keranjang belanjaan ke API JSON Server sebagai riwayat penjualan setelah transaksi dilakukan.
-- Menampilkan seluruh riwayat penjualan yang pernah dilakukan.
-
-## Run the project 🚀
-
-Di dalam directory project, untuk menjalankan project beserta dengan JSON Server, jalankan
-
-    npm run dev
-
-Buka http://localhost:3000 untuk melihatnya di browser.
-
-## Referensi 📑
-
-- [React JS](https://reactjs.org/)
-- [React-Bootstrap](https://react-bootstrap.github.io/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [typicode/json-server](https://github.com/typicode/json-server)
-- Food and drink assets - Designed by [@pch.vector](https://stackedit.io/app#https://www.freepik.com/author/pch-vector) / Freepik
+## Links
+* [My LinkedIn](https://linkedIn.com/kfaisal10)
